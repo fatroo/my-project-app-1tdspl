@@ -6,10 +6,10 @@ export default function App() {
     <h1>Firts DEPLOY in to VERCEL</h1>
     <h2>Vite + React</h2>
     <p>Code By - Rm552184</p>
-    
-
-
-
+    <div>
+      <p>Turma - 1TDPL</p>
+      <p>FIAP</p>
+    </div>
 
 
   </>
