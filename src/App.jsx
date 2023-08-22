@@ -1,17 +1,20 @@
-
+import Cabecalho from "./components/Cabecalho";
+import Section from "./components/section";
 
 export default function App() {
   return (
+  
   <>
-    <h1>Firts DEPLOY in to VERCEL</h1>
-    <h2>Vite + React</h2>
-    <p>Code By - Rm552184</p>
     <div>
-      <p>Turma - 1TDPL</p>
-      <p>FIAP</p>
+      <Cabecalho/>
+
+     <Section/>
+
+      <footer>
+        <a href="#">GitHub</a>
+      </footer>
+
     </div>
-
-
   </>
 
 
